@@ -1,0 +1,5 @@
+netmiko~=4.1.0
+requests~=2.27.1
+cryptography~=37.0.2
+urllib3~=1.26.8
+pandas~=1.4.1

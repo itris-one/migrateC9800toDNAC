@@ -1,0 +1,4 @@
+WP,PP,WLC
+WirelessProfile1,PolicyProfile1,wlc1.domain.local
+WirelessProfile2,PolicyProfile2,wlc1.domain.local
+WirelessProfile1,PolicyProfile5,wlc2.domain.local
